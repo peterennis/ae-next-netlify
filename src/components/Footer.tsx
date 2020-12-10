@@ -4,7 +4,7 @@ export default function Footer() {
   return (
     <>
       <footer className={styles.footer}>
-        an adaept <img src="/favicon.png" alt="adaept logo" className={styles.logo} /> project
+        an adaept <img src="/assets/icon/favicon.png" alt="adaept logo" className={styles.logo} /> project
       </footer>
     </>
   )

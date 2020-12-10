@@ -7,10 +7,13 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>Moonbeam Development!</title>
-        <link rel="icon" href="/favicon.png" />
+        <link rel="icon" href="/assets/icon/favicon.png" />
       </Head>
 
       <main>
+      <div>
+        <img src="/assets/ae-octocat.png" alt="cool katze" />
+      </div>
         <Header title="Welcome to moonbeam!" />
         <p className="description">
           Get started by editing <code>pages/index.tsx</code>
