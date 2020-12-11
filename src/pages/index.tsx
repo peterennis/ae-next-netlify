@@ -12,7 +12,7 @@ export default function Home() {
 
       <main>
       <div>
-        <img src="/assets/ae-octocat.png" alt="cool katze" />
+        <img src="/assets/ae-octocat-red.png" alt="cool katze" />
       </div>
         <Header title="Welcome to moonbeam!" />
         <p className="description">
