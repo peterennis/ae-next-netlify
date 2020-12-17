@@ -2,6 +2,8 @@ import Head from 'next/head'
 import Header from '../components/Header'
 import Footer from '../components/Footer'
 
+import SimpleSlider from '../components/SlickCarousel';
+
 export default function Home() {
   return (
     <div className="container">
@@ -12,7 +14,8 @@ export default function Home() {
 
       <main>
       <div>
-        <img src="/assets/ae-octocat-red.png" alt="cool katze" />
+        {/* <img src="/assets/ae-octocat-red.png" alt="cool katze" /> */}
+        <SimpleSlider></SimpleSlider>
       </div>
         <Header title="Welcome to moonbeam!" />
         <p className="description">
