@@ -35,11 +35,8 @@ export default function Home() {
                   </ion-card-header>
                   <ion-card-content>
                     <ion-icon name="glasses" slot="start"></ion-icon>
-                    We're the cool, cool, coolest cats, we're the coolest cats
-                    in town We're the cool, cool, coolest cats, we're the
-                    coolest cats around Yeah, we don't care what you say, we'll
-                    take that challenge anyday Cause we're the cool, cool,
-                    coolest cats in town
+                    No matter what you say, we'll take that challenge any day.
+                    We're the cool, cool, coolest cats in town.
                   </ion-card-content>
                 </ion-card>
               </ion-col>
