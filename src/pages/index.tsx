@@ -1,6 +1,6 @@
-import Head from 'next/head'
-import Header from '../components/Header'
-import Footer from '../components/Footer'
+import Head from "next/head";
+import Header from "../components/Header";
+import Footer from "../components/Footer";
 
 export default function Home() {
   return (
@@ -11,10 +11,10 @@ export default function Home() {
       </Head>
 
       <main>
-      <div>
-        <img src="/assets/ae-octocat-red.png" alt="cool katze" />
-      </div>
-        <Header title="Welcome to moonbeam!" />
+        <div>
+          <img src="/assets/ae-octocat-red.png" alt="cool katze" />
+        </div>
+        <Header title="Moonbeam!" />
         <p className="description">
           Get started by editing <code>pages/index.tsx</code>
         </p>
@@ -22,5 +22,5 @@ export default function Home() {
 
       <Footer />
     </div>
-  )
+  );
 }
