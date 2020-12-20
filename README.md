@@ -2,7 +2,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/ed50f56e-4fc2-4c98-8b66-1e5074c6f3d3/deploy-status)](https://app.netlify.com/sites/next-starter/deploys)
 
-This is a adaept [Next.js](https://nextjs.org/) v10.0.1 project for Netlify.
+This is an adaept [Next.js](https://nextjs.org/) v10.0.1 project for Netlify.
 
 This project is a very minimal starter that includes 2 sample components, a global stylesheet, a `netlify.toml` for deployment, and a `jsconfig.json` for setting up absolute imports and aliases.
 
